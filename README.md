@@ -8,6 +8,7 @@ VERY WIP lots of bugs expected and some unfinished features WILL be present in e
 The project is compressed with 7 Zip so download it.
 
 Dependancies:
+
 https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
 https://spacedock.info/mod/3620/VertexColorMapEmissive
 
