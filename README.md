@@ -9,8 +9,10 @@ The project is compressed with 7 Zip so download it.
 
 Dependancies:
 
-https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
-https://spacedock.info/mod/3620/VertexColorMapEmissive
-
+- https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
+- https://spacedock.info/mod/3620/VertexColorMapEmissive
+- https://forum.kerbalspaceprogram.com/topic/194936-181-191-kopernicus-continued/
+- Kopernicus expansion
+- Singularity by blackrack
 
 This is my first ever mod so I hope you enjoy it!
