@@ -2,7 +2,7 @@
 
 An odyssey to the unknown.
 
-![Kheledros](https://github.com/user-attachments/assets/3110979e-8132-4e22-9e48-4af5c6f7d33a)
+![Update v0 2 Alt](https://github.com/user-attachments/assets/d381dabd-f292-4c2a-b8b0-bb7682c00607)
 
 VERY WIP lots of bugs expected and some unfinished features WILL be present in early versions.
 The project is compressed with 7 Zip so download it.
