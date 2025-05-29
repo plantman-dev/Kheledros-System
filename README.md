@@ -11,7 +11,7 @@ Dependancies:
 - https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
 - https://spacedock.info/mod/3620/VertexColorMapEmissive
 - https://forum.kerbalspaceprogram.com/topic/194936-181-191-kopernicus-continued/
-- Kopernicus expansion
-- Singularity by blackrack
+- https://spacedock.info/mod/3357/Kopernicus%20Expansion%20Continued-er
+- https://spacedock.info/mod/2420/Singularity
 
 This is my first ever mod so I hope you enjoy it!
