@@ -2,7 +2,7 @@
 
 An odyssey to the unknown.
 
-![Update v0 2 Alt](https://github.com/user-attachments/assets/d381dabd-f292-4c2a-b8b0-bb7682c00607)
+![image](https://github.com/user-attachments/assets/6a5c7c19-b8e4-4fb5-b1ac-9bafdb146d72)
 VERY WIP lots of bugs expected and some unfinished features WILL be present in early versions.
 The project is compressed with 7 Zip so download it.
 
