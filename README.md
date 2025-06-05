@@ -4,7 +4,6 @@ An odyssey to the unknown.
 
 ![image](https://github.com/user-attachments/assets/6a5c7c19-b8e4-4fb5-b1ac-9bafdb146d72)
 VERY WIP lots of bugs expected and some unfinished features WILL be present in early versions.
-The project is compressed with 7 Zip so download it.
 
 Dependancies:
 
